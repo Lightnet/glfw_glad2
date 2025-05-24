@@ -3,7 +3,7 @@
 # License: MIT
 
 # Informtion:
-    Using the msys2 to test build glew and glad 2. Sample test for cmake build.
+    Using the msys2 to test build glfw and glad 2. Sample test for cmake build.
 
 # Prerequisites
 - msys2-x86_64-xxx.exe
